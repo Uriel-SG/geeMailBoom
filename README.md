@@ -3,7 +3,7 @@
 **geeMailBoom** is a tool that allows you to send the **same email multiple times** to a **single recipient** in a **massive** manner using a **Gmail** account.
 
 ## Features
-✅ *Send **the same email multiple times** to a single recipient**
+✅ *Send **the same email multiple times** to a single recipient*
 ✅ *Efficient **high-volume email sending***  
 ✅ *Supports **secure authentication with "App Password"***  
 ✅ *Simple **console interface***  
