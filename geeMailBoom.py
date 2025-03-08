@@ -66,8 +66,6 @@ def email_sending():
         print("\nFailed to send email.")
         print("Error:", e)
 
-
-
 email_sending()
 
 final()
